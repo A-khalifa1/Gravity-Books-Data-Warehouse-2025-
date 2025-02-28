@@ -41,4 +41,7 @@ This repository provides SQL scripts for building the data warehouse, which can 
 2. Run the SQL scripts provided in the repository to set up the database tables and relationships.
 3. Use **SSIS**, **Power BI**, or other BI tools to connect to the data warehouse for reporting and analysis.
 
+4. ![Gravity Books Modeling](./Gravity-Books-Modeling.jpg)
+
+
 
