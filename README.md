@@ -16,6 +16,9 @@ The **Gravity Books Data Warehouse** uses a **Snowflake Schema** to organize and
   - `Dim_Customer`: Customer information.
   - `Dim_Address`: Customer address details.
   - `Dim_Customer_Address`: Relationship between customers and addresses.
+ 
+    ![Gravity Books Modeling](./Gravity-Books-Modeling.jpg)
+
 
 ## Additional Files:
 - **Excel Modeling Map**: Contains the data model diagram and relationships between tables.
@@ -40,8 +43,6 @@ This repository provides SQL scripts for building the data warehouse, which can 
     ```
 2. Run the SQL scripts provided in the repository to set up the database tables and relationships.
 3. Use **SSIS**, **Power BI**, or other BI tools to connect to the data warehouse for reporting and analysis.
-
-4. ![Gravity Books Modeling](./Gravity-Books-Modeling.jpg)
 
 
 
